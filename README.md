@@ -17,6 +17,10 @@ The frontend is built using **Python (Flask)** which containerizes the user inte
 - `Dockerfile`: Multi-stage build configuration for lightweight image production.
 
 - ##Screenshorts
+- https://github.com/cit-24-01-0532-cyber/Enterprise-DevOps-Microservices-Voting-Application/blob/main/Screenshot%202026-05-28%20102744.png
+- https://github.com/cit-24-01-0532-cyber/Enterprise-DevOps-Microservices-Voting-Application/blob/main/Screenshot%202026-05-28%20102750.png
+- https://github.com/cit-24-01-0532-cyber/Enterprise-DevOps-Microservices-Voting-Application/blob/main/Screenshot%202026-06-04%20131840.png
+https://github.com/cit-24-01-0532-cyber/Enterprise-DevOps-Microservices-Voting-Application/blob/main/Screenshot%202026-06-04%20131828.png
 - 
 
 ## 📦 Local Deployment (Docker)
