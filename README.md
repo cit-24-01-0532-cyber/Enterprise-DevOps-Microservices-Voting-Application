@@ -16,6 +16,9 @@ The frontend is built using **Python (Flask)** which containerizes the user inte
 - `templates/index.html`: Premium dark-themed UI frontend.
 - `Dockerfile`: Multi-stage build configuration for lightweight image production.
 
+- ##Screenshorts
+- 
+
 ## 📦 Local Deployment (Docker)
 To run this project locally, execute the following commands:
 
